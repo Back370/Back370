@@ -45,10 +45,25 @@ Also Familiar With:
 <div align = "right">
   個人開発
 </div>
+<br> 
 コヨーテゲームにおいて周りの情報から適切な値を宣言するAIを目指して作りました。
 DeepCFRの考え方を取り入れたDQN学習とルールベースによるハイブリットなAIが出来上がりました。
+<br>
+    
+Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464)
     
 <br>
+<div align="center">
+  
+  <h3>C0deハッカソン with pixiv </h3>
+  <a href="https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img align="center" src="https://private-user-images.githubusercontent.com/168190155/444654698-278bd967-c715-4575-bd18-5707ef703c2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0MTg4NjksIm5iZiI6MTc0NzQxODU2OSwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ0NjU0Njk4LTI3OGJkOTY3LWM3MTUtNDU3NS1iZDE4LTU3MDdlZjcwM2MyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNlQxODAyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NThhMjIwNTdkMjZiNWFhMTdjMDU2MmM3MDE4Y2E2ODI1NWY2NmVmOWE0MGI2ZTdiOWZlYTcxNDJjMjdlMjlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5S06MuNMQAUT3DwrFF-Iv2b_lJYhU30YDdTwTeqYj_c" />
+  </a>
+</div>
+<div align = "right">
+  バックエンド(一部),JavaScript
+</div>
+絵をかいて、使った色や量に応じて与えられるハッシュ値がHPやAKといったパラメータとなります。そのパラーメータを持つカードを使用して２人で対戦することができます。
 <!-- ビジターカウンター -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Back370&color=blueviolet&style=flat-square" />
