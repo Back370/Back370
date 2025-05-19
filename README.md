@@ -43,21 +43,24 @@ Also Familiar With:
   </a>
 </div>
 <div align = "right">
-  個人開発
+  参加者として　AIの個人開発
+　運営として　　コヨーテのゲームシステム
 </div>
 <br> 
 コヨーテゲームにおいて周りの情報から適切な値を宣言するAIを目指して作りました。
 DeepCFRの考え方を取り入れたDQN学習とルールベースによるハイブリットなAIが出来上がりました。
 <br>
     
-Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464)
+Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <br>
+リポジトリURL[コヨーテAI](https://github.com/Back370/MycoyoteAI)
+リポジトリURL[コヨーテゲームシステム](https://github.com/coyote-AI-competition/socket) このリポジトリはprivateに設定されています。ご覧になる方はgithubアカウントを教えていただければ招待します。
     
 <br>
 <div align="center">
   
   <h3>C0deハッカソン with pixiv </h3>
   <a href="https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img align="center" src="https://private-user-images.githubusercontent.com/168190155/444654698-278bd967-c715-4575-bd18-5707ef703c2b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0MTg4NjksIm5iZiI6MTc0NzQxODU2OSwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ0NjU0Njk4LTI3OGJkOTY3LWM3MTUtNDU3NS1iZDE4LTU3MDdlZjcwM2MyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNlQxODAyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NThhMjIwNTdkMjZiNWFhMTdjMDU2MmM3MDE4Y2E2ODI1NWY2NmVmOWE0MGI2ZTdiOWZlYTcxNDJjMjdlMjlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5S06MuNMQAUT3DwrFF-Iv2b_lJYhU30YDdTwTeqYj_c" />
+    <img align="center" src=https://private-user-images.githubusercontent.com/168190155/445018797-8b88f6e8-1753-4135-b4c4-9aa1d5890411.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2Mzk5MzQsIm5iZiI6MTc0NzYzOTYzNCwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ1MDE4Nzk3LThiODhmNmU4LTE3NTMtNDEzNS1iNGM0LTlhYTFkNTg5MDQxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxOVQwNzI3MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTRhMGI3Njk4MjgxOWYyYzAxOGJmNzQ0NGZlNGM4NzQ2ODJmMThhMzc4ZWQ5ZDYxNWY5MDVhNzI1MGEzZjU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XKDlIf6WeY804pKcdgCbS7oW4vtHzFZ7WvxBafljCBU />
   </a>
 </div>
 <div align = "right">
