@@ -67,6 +67,8 @@ Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <
   バックエンド(一部),JavaScript
 </div>
 絵をかいて、使った色や量に応じて与えられるハッシュ値がHPやAKといったパラメータとなります。そのパラーメータを持つカードを使用して２人で対戦することができます。
+<br>
+［リポジトリURL](https://github.com/nqmery/OekakiDuel-Server)
 <!-- ビジターカウンター -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Back370&color=blueviolet&style=flat-square" />
