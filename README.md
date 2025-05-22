@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Back</h1>
+👋 Hi, I'm Back</h1>
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/168190155/444632560-fd285b37-d570-4842-afcd-0221576016fa.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0MTQyMjgsIm5iZiI6MTc0NzQxMzkyOCwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ0NjMyNTYwLWZkMjg1YjM3LWQ1NzAtNDg0Mi1hZmNkLTAyMjE1NzYwMTZmYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNlQxNjQ1MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MWYzOTljYmNkY2Q3ZWQzOTIxNDkwMDJkYzFlODY4MDMwNTFmYTIyYmI1ZTU1N2E0ZDViNmJkYzgzNDkxMzdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.w8cM3eidnB19BL_BWgAMzGjGxM3HyMHJK9O2U8CIBVE" width="180" style="border-radius:50%;" />
 </div>
@@ -59,9 +59,10 @@ Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <
 <div align="center">
   
   <h3>C0deハッカソン with pixiv </h3>
-  <a href="https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img align="center" src=https://private-user-images.githubusercontent.com/168190155/445018797-8b88f6e8-1753-4135-b4c4-9aa1d5890411.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc2Mzk5MzQsIm5iZiI6MTc0NzYzOTYzNCwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ1MDE4Nzk3LThiODhmNmU4LTE3NTMtNDEzNS1iNGM0LTlhYTFkNTg5MDQxMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxOVQwNzI3MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTRhMGI3Njk4MjgxOWYyYzAxOGJmNzQ0NGZlNGM4NzQ2ODJmMThhMzc4ZWQ5ZDYxNWY5MDVhNzI1MGEzZjU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XKDlIf6WeY804pKcdgCbS7oW4vtHzFZ7WvxBafljCBU />
-  </a>
+  <a href="https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a>
+  <img align="center" src="https://private-user-images.githubusercontent.com/168190155/446463612-4c1fff44-b133-4823-81ba-79c5794f319f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDM1MjAsIm5iZiI6MTc0NzkwMzIyMCwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ2NDYzNjEyLTRjMWZmZjQ0LWIxMzMtNDgyMy04MWJhLTc5YzU3OTRmMzE5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwODQwMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzllODMwOTIwYTA4ODkyZDA3YzRlNTM2OTUwZWMzYmZiZmNmMTQyNDJlYzgxYWU5YjgzN2E5ZDAyNjA0OWQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e5i7Q48zD05yrDAYb7YyWgx8CQ6Ew9wvBFW7ZK4sNag" />
+
+
 </div>
 <div align = "right">
   バックエンド(一部),JavaScript
