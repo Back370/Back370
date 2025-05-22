@@ -5,7 +5,7 @@
 <h3 align="center">Information Technology Student at Nagoya</h3>
 <p align="center">
   <a href="https://github.com/Back370"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <br>
-  <a href="https://x.com/back370"><img src=
+  <a href="https://x.com/back370"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)"/></a><br>
 </p>
 <hr>
 <h2> 💻 About Me </h2>
@@ -59,7 +59,6 @@ Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <
 <div align="center">
   
   <h3>C0deハッカソン with pixiv </h3>
-  <a href="https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a>
   <img align="center" src="https://private-user-images.githubusercontent.com/168190155/446463612-4c1fff44-b133-4823-81ba-79c5794f319f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5MDM1MjAsIm5iZiI6MTc0NzkwMzIyMCwicGF0aCI6Ii8xNjgxOTAxNTUvNDQ2NDYzNjEyLTRjMWZmZjQ0LWIxMzMtNDgyMy04MWJhLTc5YzU3OTRmMzE5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyMlQwODQwMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzllODMwOTIwYTA4ODkyZDA3YzRlNTM2OTUwZWMzYmZiZmNmMTQyNDJlYzgxYWU5YjgzN2E5ZDAyNjA0OWQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e5i7Q48zD05yrDAYb7YyWgx8CQ6Ew9wvBFW7ZK4sNag" />
 
 
@@ -69,7 +68,8 @@ Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <
 </div>
 絵をかいて、使った色や量に応じて与えられるハッシュ値がHPやAKといったパラメータとなります。そのパラーメータを持つカードを使用して２人で対戦することができます。
 <br>
-［リポジトリURL](https://github.com/nqmery/OekakiDuel-Server)
+［リポジトリURL](https://github.com/nqmery/OekakiDuel-Server)<br>
+[説明スライドURL](https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!-- ビジターカウンター -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Back370&color=blueviolet&style=flat-square" />
