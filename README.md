@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Back</h1>
-  <img src="https://private-user-images.githubusercontent.com/168190155/446830910-d5ff22cb-88cc-4b03-865b-8b149ab92a60.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc5Njk2NzcsIm5iZiI6MTc0Nzk2OTM3NywicGF0aCI6Ii8xNjgxOTAxNTUvNDQ2ODMwOTEwLWQ1ZmYyMmNiLTg4Y2MtNGIwMy04NjViLThiMTQ5YWI5MmE2MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyM1QwMzAyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NjEyYmUzNjY5MjJjMzRiNDUxYjc4OTA1ZGM0Mjc3ZWUzNTFlNDE3MzY3ZDQzNmQwY2RmN2JjODlmMzQyMjkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EsoWghdI9dgJa5Q_nxYS7pi13fWnCH1QSpu08_GX0Gs" width="180" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/ztv96GX.png" width="180" style="border-radius:50%;" />
 </div>
 <h3 align="center">Information Technology Student at Nagoya</h3>
 <p align="center">
