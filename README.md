@@ -22,7 +22,7 @@ Core Skills:
 </p>
 Also Familiar With:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,blender,docker,notion,html,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,blender,html,kotlin" />
 </p>
 <br>
 📊 GitHub Stats
