@@ -49,6 +49,7 @@ Also Familiar With:
 <br> 
 コヨーテゲームにおいて周りの情報から適切な値を宣言するAIを目指して作りました。
 DeepCFRの考え方を取り入れたDQN学習とルールベースによるハイブリットなAIが出来上がりました。
+総合準優勝、TAIR賞
 <br>
     
 Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <br>
