@@ -36,44 +36,8 @@ Also Familiar With:
 <br>
 <h2>🚀 Hackathon Projects </h2>
 <div align="center">
-  <!-- ここにハッカソンプロジェクトカードを追加 -->
-  <h3>coyote-AI-competition with jack and C0de</h3>
-  <a href="https://zenn.dev/back77/articles/a51abfa123c3d8">
-    <img align="center" src="https://i.imgur.com/Bv9QAz7.png"/>
-  </a>
-</div>
-<div align = "right">
-  参加者として　AIの個人開発
-　運営として　　コヨーテのゲームシステム
-</div>
-<br> 
-コヨーテゲームにおいて周りの情報から適切な値を宣言するAIを目指して作りました。
-DeepCFRの考え方を取り入れたDQN学習とルールベースによるハイブリットなAIが出来上がりました。
-総合準優勝、TAIR賞
-<br>
-    
-Zenn記事：[コヨーテAI](https://zenn.dev/back77/articles/c971fb312b0464) <br>
-リポジトリURL[コヨーテAI](https://github.com/Back370/MycoyoteAI)
-リポジトリURL[コヨーテゲームシステム](https://github.com/coyote-AI-competition/socket) このリポジトリはprivateに設定されています。ご覧になる方はgithubアカウントを教えていただければ招待します。
-    
-<br>
-<div align="center">
-  
-  <h3>C0deハッカソン with pixiv </h3>
-  <img align="center" src="https://i.imgur.com/djOnWG3.png"/>
-
-
-</div>
-<div align = "right">
-  バックエンド(一部),JavaScript
-</div>
-絵をかいて、使った色や量に応じて与えられるハッシュ値がHPやAKといったパラメータとなります。そのパラーメータを持つカードを使用して２人で対戦することができます。
-<br>
-［リポジトリURL](https://github.com/nqmery/OekakiDuel-Server)<br>
-[説明スライドURL](https://www.canva.com/design/DAGZsNkg5Vs/gtpWG4FEAxb4-cSVjnQa5g/edit?utm_content=DAGZsNkg5Vs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<!-- ビジターカウンター -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Back370&color=blueviolet&style=flat-square" />
+> 実際に開発したプロジェクトはこちら <br>
+🔗 [Portfolioを見る](https://back-portfolio-phi.vercel.app/)
 </div>
 
 
