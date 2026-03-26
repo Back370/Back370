@@ -11,18 +11,18 @@
 <h2> 💻 About Me </h2>
 javascriptconst back = { <br>
   education: "Information Technology at Nagoya", <br>
-  interests: ["Game Development", "Programming", "3D Modeling"], <br> 
-  currentFocus: "Exploring game engines and computer graphics"   <br>
+  interests: ["Game Development", "Backend", "Android Development"], <br> 
+  currentFocus: "Backend"   <br>
 };
 <br>
 <h2>🛠️ Tech Stack </h2>
 Core Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,unreal" />
+  <img src="https://skillicons.dev/icons?i=go,py,kotlin,unreal,typescript" />
 </p>
 Also Familiar With:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,blender,html,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,blender,html,java" />
 </p>
 <br>
 📊 GitHub Stats
