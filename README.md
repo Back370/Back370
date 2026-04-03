@@ -18,7 +18,7 @@ javascriptconst back = { <br>
 <h2>🛠️ Tech Stack </h2>
 Core Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,kotlin,unreal,typescript" />
+  <img src="https://skillicons.dev/icons?i=go,py,kotlin,unreal,typescript,react" />
 </p>
 Also Familiar With:
 <p align="center">
